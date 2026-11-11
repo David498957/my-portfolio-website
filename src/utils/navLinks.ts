@@ -7,5 +7,5 @@ import {  type NavLink } from "../types/navLinks";
 ];
  export const SOCIALS: NavLink[] = [
   { label: "LinkedIn", href: "#" },
-  { label: "GitHub", href: "#" },
+  { label: "GitHub", href: "https://github.com/David498957" },
 ];
